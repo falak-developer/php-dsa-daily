@@ -10,7 +10,7 @@ The goal is to build strong DSA fundamentals using **core PHP** and then integra
 | Day | Topic | File | Status |
 |-----|--------|------|--------|
 | 1 | Linear Search | [search.php](search.php) | ✅ Completed |
-| 2 | Binary Search | _Coming Soon_ | ⏳ |
+| 2 | Binary Search | [binary_search.php](binary_search.php) | ✅ Completed |
 | 3 | Bubble Sort | _Coming Soon_ | ⏳ |
 | 4 | Insertion Sort | _Coming Soon_ | ⏳ |
 | 5 | Selection Sort | _Coming Soon_ | ⏳ |
